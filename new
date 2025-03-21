@@ -10,7 +10,7 @@
             "role": "user",
             "content": [
                 {
-                    "text": "question"
+                    "text": "What are the different types of real numbers?"
                 }
             ]
         },
@@ -18,7 +18,7 @@
             "role": "assistant",
             "content": [
                 {
-                    "text": "answer"
+                    "text": "Natural Numbers (N): Counting numbers (1, 2, 3, …). Whole Numbers (W): Natural numbers plus 0. Integers (I): Whole numbers and their negatives (-3, -2, -1, 0, 1, …). Rational Numbers (Q): Numbers that can be expressed as fractions, including terminating and repeating decimals. Irrational Numbers (Q′): Numbers that cannot be written as fractions, such as √2 and π.."
                 }
             ]
         }
@@ -28,7 +28,7 @@
             "role": "user",
             "content": [
                 {
-                    "text": "question"
+                    "text": "How do you classify numbers as natural, whole, integer, rational, or irrational?"
                 }
             ]
         },
@@ -36,7 +36,7 @@
             "role": "assistant",
             "content": [
                 {
-                    "text": "answer"
+                    "text": "Natural: Positive counting numbers (1, 2, 3, …). Whole: Natural numbers plus 0. Integers: Whole numbers and their negatives. Rational: Numbers that can be expressed as fractions or decimals that terminate or repeat. Irrational: Non-repeating, non-terminating decimals.."
                 }
             ]
         }
@@ -46,7 +46,7 @@
             "role": "user",
             "content": [
                 {
-                    "text": "question"
+                      "text": "What is the order of operations, and why is it important?"
                 }
             ]
         },
@@ -54,7 +54,7 @@
             "role": "assistant",
             "content": [
                 {
-                    "text": "answer"
+                    "text": "PEMDAS: Parentheses, Exponents, Multiplication and Division (left to right), Addition and Subtraction (left to right). It ensures consistency in solving expressions."
                 }
             ]
         }
@@ -64,7 +64,7 @@
             "role": "user",
             "content": [
                 {
-                    "text": "question"
+                    "text": "How do the commutative, associative, and distributive properties work?"
                 }
             ]
         },
