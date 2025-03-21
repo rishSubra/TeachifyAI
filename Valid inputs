@@ -102,6 +102,38 @@
           "text": "Replace variables with given values and simplify using the order of operations."
         }
       ]
+      "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "How do you simplify algebraic expressions?"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Use Properties of real numbers to combine like terms and simplify."
+        }
+      ]
+      "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Why is zero considered a whole number and not a natural?"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "text": "Natural numbers start at 1, but whole numbers include 0."
+        }
+      ]
     }
   ]
 }
