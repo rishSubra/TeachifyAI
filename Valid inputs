@@ -1,4 +1,3 @@
-// train.jsonl
 {
   "schemaVersion": "bedrock-conversation-2024",
   "system": [
@@ -21,7 +20,7 @@
         {
           "text": "Natural Numbers (N): Counting numbers (1, 2, 3, …). Whole Numbers (W): Natural numbers plus 0. Integers (I): Whole numbers and their negatives (-3, -2, -1, 0, 1, …). Rational Numbers (Q): Numbers that can be expressed as fractions, including terminating and repeating decimals. Irrational Numbers (Q′): Numbers that cannot be written as fractions, such as √2 and π.."
         }
-      ]
+      ],
       "messages": [
     {
       "role": "user",
@@ -37,7 +36,7 @@
         {
           "text": "Natural: Positive counting numbers (1, 2, 3, …). Whole: Natural numbers plus 0. Integers: Whole numbers and their negatives. Rational: Numbers that can be expressed as fractions or decimals that terminate or repeat. Irrational: Non-repeating, non-terminating decimals.."
         }
-      ]
+      ],
        "messages": [
     {
       "role": "user",
@@ -53,7 +52,7 @@
         {
           "text": "PEMDAS: Parentheses, Exponents, Multiplication and Division (left to right), Addition and Subtraction (left to right). It ensures consistency in solving expressions."
         }
-      ]
+      ],
       "messages": [
     {
       "role": "user",
@@ -69,7 +68,7 @@
         {
           "text": "Commutative: a + b = b + a, ab = ba. Associative: (a + b) + c = a + (b + c), (ab)c = a(bc). Distributive: a(b + c) = ab + ac."
         }
-      ]
+      ],
       "messages": [
     {
       "role": "user",
@@ -85,7 +84,7 @@
         {
           "text": "Terminating: Has a finite number of decimal places (e.g., 0.75, 1.25). Repeating: Digits repeat indefinitely (e.g., 0.333..., 0.142857142857...)."
         }
-      ]
+      ],
       "messages": [
     {
       "role": "user",
@@ -101,7 +100,7 @@
         {
           "text": "Replace variables with given values and simplify using the order of operations."
         }
-      ]
+      ],
       "messages": [
     {
       "role": "user",
@@ -117,7 +116,7 @@
         {
           "text": "Use Properties of real numbers to combine like terms and simplify."
         }
-      ]
+      ],
       "messages": [
     {
       "role": "user",
